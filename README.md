@@ -9,7 +9,7 @@ I'm a **data science + AI enthusiast** passionate about building tools that solv
 
 ## 🚀 Featured Projects
 
-- [🔍 Pokémon Data Analysis](https://github.com/yourrepo/pokemon-analysis)  
+- [🔍 Pokémon Data Analysis](https://github.com/Atif-Tausif/Project-Repo/tree/main/Pokemon%20Stat%20Analysis)  
   Data exploration and visualization of Pokémon stats using Pandas, NumPy, and Matplotlib.
 
 
